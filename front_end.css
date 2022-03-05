@@ -1,0 +1,100 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(70, 67, 67);
+}
+.bottom_pic{
+    margin-left: 1250px;
+    margin-bottom: 50px;
+}
+
+header{
+    padding-bottom: 100px;
+    background-color: #411900;
+    height: 15px;
+}
+
+header .Links a{
+    text-decoration: none;
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+header .Links .Join{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    border-radius: 30px;
+    padding: 15px;
+    border: red;
+}
+
+.BODY .Log{
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    border-radius: 20px;
+    padding: 16px;
+    border: red;
+    padding-top: 7px;
+}
+
+.BODY form p{
+    color: white;
+}
+
+.BODY form p .Log{
+    text-decoration: none;
+}
+.BODY{
+    font-size: 20px;
+    padding: 100px 80px;
+    background-color: rgba(36, 34, 34, 0.863);        
+}
+
+.BODY form input{
+    width: 500px;
+    padding: 5px 5px;
+    border-radius: 8px;
+    height: 25px;
+
+}
+
+.BODY .check{
+    display: inline-block;
+}
+
+footer{
+    background-color: rgba(15, 15, 15, 0.959);
+    height: fit-con;
+}
+
+footer .Links a{
+    text-decoration: none;
+    font-size: 22px;
+    color: grey;
+    padding-left: 40px;
+}
+
+footer .email {
+    margin-left: 950px;
+    padding-top: -20px;
+}
+
+footer h3{
+    color: grey;
+}
+
+footer .bottom a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: light;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    justify-content: space-between;
+    padding-left: 40px;
+    
+}
+
+footer .bottom_pic{
+    top: -70px;
+}
